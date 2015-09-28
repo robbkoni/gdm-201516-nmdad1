@@ -7,8 +7,8 @@
 | Geboorteplaats      |    Gent |
 |Geboortedatum|27/12/1996|
 ##Portfolio
-[BITBUCKET](https://bitbucket.org/robbkoni/)
-[GITHUB](https://github.com/robbkoni)
+[BITBUCKET](https://bitbucket.org/robbkoni/) | 
+[GITHUB](https://github.com/robbkoni) |
 [PINTEREST](https://www.pinterest.com/robbekonings/)
 
 ##Werkervaring
